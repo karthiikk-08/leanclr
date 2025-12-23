@@ -10,6 +10,7 @@ CoreCLR, Mono, and IL2CPP are widely used; why build LeanCLR? Our motivations:
 
 1. CoreCLR and Mono are relatively heavy, making it hard to simultaneously meet package size and memory constraints in extreme resource scenarios. LeanCLR is tightly designed and easy to embed; the single-thread build for Win64 or WebAssembly is about **600 KB**.
 1. IL2CPP is closed-source and AOT-only, with limited ECMA-335 coverage. On H5 and mini-game distribution targets, wasm binary size and post-load memory usage are often high.
+1. LeanCLR uses an AOT + Interpreter hybrid model, forgoing JIT. This ensures high compactness and cross-platform consistency, meeting the requirements of mobile and mini-game platforms.
 1. Compared with CoreCLR’s large codebase and Mono’s complexity and historical baggage, LeanCLR offers a cleaner, simpler codebase that is easier to customize and extend for specific needs.
 
 ## Features & Advantages

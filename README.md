@@ -10,6 +10,7 @@ LeanCLR 是一个面向全平台的精益 CLR（Common Language Runtime）实现
 
 1. CoreCLR、Mono 体量较大，难以在极端资源场景下同时满足包体与内存占用目标。LeanCLR 设计紧凑，易于嵌入；单线程构建在 Win64 或 WebAssembly 平台约 **600 KB**。
 1. IL2CPP 闭源，仅支持 AOT，对 ECMA-335 的完整度有限；在 H5 与小游戏发布场景中，wasm 二进制体积与加载后内存占用普遍偏高。
+1. LeanCLR 采用 AOT + Interpreter 混合模式，放弃 JIT，实现高度紧凑，保证跨平台一致性，充分满足移动端和小游戏平台需求。
 1. 相比 CoreCLR 代码基庞大、Mono 历史包袱较重且复杂，LeanCLR 代码更简洁清晰，便于定制与二次开发，以更好贴合具体业务需求。
 
 ## 特性与优势
